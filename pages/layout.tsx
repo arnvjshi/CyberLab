@@ -5,7 +5,6 @@ export const metadata: Metadata = {
   title: 'CyberLab',
   description: 'Reserve A Classroom',
   generator: 'Arnav Joshi',
-  icons: "../public/favicon.png"
 }
 
 export default function RootLayout({
